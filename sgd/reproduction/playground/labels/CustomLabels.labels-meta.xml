@@ -8,4 +8,12 @@
         <shortDescription>Test</shortDescription>
         <value>Test</value>
     </labels>
+    <labels>
+        <fullName>OtherTest</fullName>
+        <categories>Test</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Test</shortDescription>
+        <value>Test</value>
+    </labels>
 </CustomLabels>
