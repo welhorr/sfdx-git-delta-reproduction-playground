@@ -31,7 +31,7 @@
         <fullName>v1</fullName>
         <botDialogGroups>
             <developerName>Order_Management</developerName>
-            <label>Order Management</label>
+            <label>Order Management V1</label>
         </botDialogGroups>
         <botDialogs>
             <botDialogGroup>Order_Management</botDialogGroup>
@@ -146,7 +146,7 @@
         <fullName>v2</fullName>
         <botDialogGroups>
             <developerName>Order_Management</developerName>
-            <label>Order Management</label>
+            <label>Order Management V2</label>
         </botDialogGroups>
         <botDialogs>
             <botDialogGroup>Order_Management</botDialogGroup>
